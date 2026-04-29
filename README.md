@@ -54,4 +54,4 @@ Una vez iniciada la aplicación, puedes acceder a la documentación interactiva 
 5. Cambiar el estado a **ACEPTADA** para finalizar la venta (el stock se descontará automáticamente).
 
 ---
-*Desarrollado como un ejemplo de arquitectura senior para sistemas escalables.*
+*Desarrollado por luis.*

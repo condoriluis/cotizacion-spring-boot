@@ -48,4 +48,3 @@ Bienvenido al sistema de gestión de cotizaciones más moderno y eficiente. Este
 - `src/services`: Configuración de la API y lógica de autenticación.
 
 ---
-*Desarrollado con ❤️ para una gestión comercial inteligente.*
