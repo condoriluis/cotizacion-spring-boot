@@ -1,0 +1,23 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+.nb-gradle/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Spring Boot
+.mvn/wrapper/maven-wrapper.properties
